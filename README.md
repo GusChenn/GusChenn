@@ -7,14 +7,14 @@
   I am a front-end web developer currently in the process of mastering React.js. I am learning about GraphQL, Typescript, Docker, Storybook and Apollo. I also have a basic understanding of deep learning and image processing, and am very interested in design. Also here is my GitHub pet:
 
   
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/GusChenn"
+    src="https://render.gitanimals.org/lines/GusChenn?pet-id=664806596184637330"
     width="600"
     height="120"
   />
 </a>
-  
 
   <br>
 
